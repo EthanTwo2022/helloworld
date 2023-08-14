@@ -1,0 +1,3 @@
+/home/action/code/CppPrectice/Vector3/build/CMakeFiles/rebuild_cache.dir
+/home/action/code/CppPrectice/Vector3/build/CMakeFiles/edit_cache.dir
+/home/action/code/CppPrectice/Vector3/build/CMakeFiles/cv.dir

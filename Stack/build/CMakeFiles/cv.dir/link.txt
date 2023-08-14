@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -pthread -O3 CMakeFiles/cv.dir/src/stack.cpp.o -o /home/action-cv/code/CppPrectice/Stack/bin/cv 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/action/code/CppPrectice/Vector3/src/helloworld.cpp
+helloworld.h
+/home/action/code/CppPrectice/Vector3/src/helloworld.h
+
+/home/action/code/CppPrectice/Vector3/src/helloworld.h
+algorithm
+-
+cstdlib
+-
+iostream
+-
+vector
+-
+utility
+-
+iostream
+-
+cassert
+-
+

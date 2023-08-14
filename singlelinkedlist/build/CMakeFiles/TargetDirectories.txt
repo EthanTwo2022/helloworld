@@ -1,0 +1,3 @@
+/home/action-cv/code/CppPrectice/singlelinkedlist/build/CMakeFiles/cv.dir
+/home/action-cv/code/CppPrectice/singlelinkedlist/build/CMakeFiles/edit_cache.dir
+/home/action-cv/code/CppPrectice/singlelinkedlist/build/CMakeFiles/rebuild_cache.dir
